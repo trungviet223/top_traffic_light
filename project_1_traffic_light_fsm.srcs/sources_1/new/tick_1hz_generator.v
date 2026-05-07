@@ -1,4 +1,4 @@
-module tick_1hz_gen (
+module tick_1hz_generator (
     input  wire clk,
     output reg  tick_1hz
 );
